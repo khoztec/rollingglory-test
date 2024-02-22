@@ -1,0 +1,36 @@
+.average-rating::before {
+    position: relative !important;
+}
+.text-points {
+    color: #74b71b;
+}
+.text-maroon {
+    color: #e7246b
+}
+.btn-points-outline {
+    color: #74b71b;
+    border: 1px solid #74b71b;
+    background-color: white;
+}
+.btn-points-outline:hover {
+    color: white;
+    background-color: #74b71b;
+}
+.btn-gift-active {
+    color: white;
+    border: 1px solid #e7246b;
+    background-color: #e7246b;
+}
+.btn-gift-active:hover {
+    color: #e7246b;
+    background-color: white;
+}
+.btn-gift-inactive {
+    color: #838eab;
+    border: 1px solid #838eab;
+    background-color: white;
+}
+.btn-gift-inactive:hover {
+    color: white;
+    background-color: #e7246b;
+}
